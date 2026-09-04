@@ -123,14 +123,5 @@ Only after all your tuning is complete do you test your final model on the test 
 
 At this stage, you present your findings, document what worked and what didn't, and list any limitations.
 
-## After Launching
-The work doesn't stop at launch. You need to:
 
-Monitor performance in the live system and set up alerts for when it drops.
-
-Check the input data quality regularly, as bad data can slowly degrade your model.
-
-Retrain the model regularly with fresh data to prevent it from becoming outdated.
-
-Automate the entire process as much as possible, including saving backups so you can easily revert to a working version if something goes wrong.
 
