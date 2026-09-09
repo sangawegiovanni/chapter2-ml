@@ -32,7 +32,9 @@ The model should learn from this data and be able to predict the median housing 
   much error the system typically makes in its predictions, with a higher weight for
   large errors. Equation 2-1 shows the mathematical formula to compute the RMSE.
   Root Mean Square Error (RMSE):
-  RMSE(X, h) = √[ (1/n) * ∑ (h(xᵢ) - yᵢ)² ]
+
+  $$ RMS = {\sqrt{\sum_{i=0}^{m}(y-y_{i})^{2}/{2\times m}}} $$
+  
 
   Even though the RMSE is generally the preferred performance measure for regression
 tasks, in some contexts you may prefer to use another function. For example, suppose
