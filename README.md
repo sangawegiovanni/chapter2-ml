@@ -42,7 +42,7 @@ that there are many outlier districts. In that case, you may consider using the 
 Absolute Error
 
 
-  $$ MAE = {1/m \times {\sum{h \times (x^i)-y^i))}}} $$
+  $$ MAE = {1/m \times {\sum{h \times (x^i)-y^i)}}} $$
   
 
  ## Getting the Data Ready
