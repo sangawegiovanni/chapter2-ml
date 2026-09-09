@@ -69,7 +69,7 @@ Numbering categories: Turn each category into a number (like 0, 1, 2). But this 
 
 One-hot encoding: Create a separate "yes/no" column for each category. This avoids the order problem but can create many columns if there are many categories.
 
-## Creating New Features
+
 
 
 ## Scaling the Numbers
