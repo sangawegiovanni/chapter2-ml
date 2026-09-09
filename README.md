@@ -41,7 +41,8 @@ tasks, in some contexts you may prefer to use another function. For example, sup
 that there are many outlier districts. In that case, you may consider using the Mean
 Absolute Error
 
-  MAE(X, h) = (1/n) * ∑ |h(xᵢ) - yᵢ|
+
+  $$ MAE = {1/m \times {\sum}}
   
 
  ## Getting the Data Ready
